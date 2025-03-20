@@ -29,7 +29,7 @@ Molecule-MCP connects molecule science releated tools to Claude AI through the M
 ```
 2. Install mcp and get the script
 ```bash
-pip install mcp
+pip install mcp chatmol
 which mcp
 ```
 the path to mcp will be displayed. Copy this path for the next step and replace `/path/to/mcp` with the path to mcp.
